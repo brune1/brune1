@@ -31,4 +31,4 @@ I don't just write code; I interpret data to solve business problems.
 ---
 
 ### 📫 Contact
-* **LinkedIn:** [Link al tuo profilo]
+* **LinkedIn:** [https://www.linkedin.com/in/brunorialessandro/]
