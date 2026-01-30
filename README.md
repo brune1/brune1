@@ -31,4 +31,4 @@ I don't just write code; I interpret data to solve business problems.
 ---
 
 ### 📫 Contact
-* **LinkedIn:** [https://www.linkedin.com/in/brunorialessandro/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorialessandro/)
