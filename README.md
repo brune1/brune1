@@ -1,4 +1,4 @@
-# [Hi, I'm Alessandro 🖐️]
+# Hi, I'm Alessandro 
 **Economics & Big Data Student | Aspiring Sports Data Scientist**
 
 ---
