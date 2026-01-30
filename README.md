@@ -11,7 +11,7 @@ My goal? To bring data-driven decision making into the **Sports Industry**.
 I am currently tackling a **22-Project Data Science Challenge** to build my portfolio from scratch.
 From simple EDA to Deep Learning, I'm documenting every step of my learning curve.
 
-👉 **[Follow my Journey here](./22-Data-Science-Projects-Journey)** 
+👉 **[Follow my Journey here](https://github.com/brune1/22-Data-Science-Projects-Journey)** 
 
 ---
 
