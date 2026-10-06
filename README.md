@@ -7,9 +7,6 @@
 I am an Economics student with a specialized focus on Big Data and Analytics. My background combines strong **statistical and financial foundations** with practical **programming skills**.
 I don't just write code; I interpret data to solve business problems.
 
-* **Current Focus:** Building a comprehensive portfolio of 22 Data Science projects (EDA, Machine Learning, Deep Learning).
-* **Goal:** Applying data science techniques to the **Sports Industry** to drive performance and business decisions.
-
 ---
 
 ### 🛠 Technical Skills
