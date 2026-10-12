@@ -9,18 +9,6 @@ I don't just write code; I interpret data to solve business problems.
 
 ---
 
-### 🛠 Technical Skills
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, R, SQL |
-| **Data Analysis** | Pandas, NumPy, Excel (Advanced) |
-| **Machine Learning** | Scikit-Learn, Regression, Classification |
-| **Visualization** | Seaborn, Matplotlib, Data Storytelling |
-| **Version Control** | Git, GitHub |
-
----
-
 ### 🎓 Education & Background
 * **B.Sc. in Economics & Big Data:** Strong grasp of Econometrics, Statistics, and Financial Modeling.
 * **Languages:** Italian (Native), English (Professional).
